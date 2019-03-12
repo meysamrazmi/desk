@@ -1,0 +1,9 @@
+C:\Users\Amirhossein\source\repos\808DesktopApp\808Updater\bin\Debug\808Updater.exe
+C:\Users\Amirhossein\source\repos\808DesktopApp\808Updater\bin\Debug\808Updater.pdb
+C:\Users\Amirhossein\source\repos\808DesktopApp\808Updater\obj\Debug\808Updater.csprojResolveAssemblyReference.cache
+C:\Users\Amirhossein\source\repos\808DesktopApp\808Updater\obj\Debug\_808Updater.Properties.Resources.resources
+C:\Users\Amirhossein\source\repos\808DesktopApp\808Updater\obj\Debug\_808Updater.UpdatePreviewfrm.resources
+C:\Users\Amirhossein\source\repos\808DesktopApp\808Updater\obj\Debug\808Updater.csproj.GenerateResource.cache
+C:\Users\Amirhossein\source\repos\808DesktopApp\808Updater\obj\Debug\808Updater.csproj.CoreCompileInputs.cache
+C:\Users\Amirhossein\source\repos\808DesktopApp\808Updater\obj\Debug\808Updater.exe
+C:\Users\Amirhossein\source\repos\808DesktopApp\808Updater\obj\Debug\808Updater.pdb
