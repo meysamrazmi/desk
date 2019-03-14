@@ -235,12 +235,16 @@ namespace _808DesktopApp
                 return;
             }
 
-
-            var dataEnc = System.IO.File.ReadAllBytes(filePath);
-            if (dataEnc.Length == 0)
-                return;
             try
             {
+                var dataEnc = System.IO.File.ReadAllBytes(filePath);
+                if (dataEnc.Length == 0)
+                {
+                    System.IO.File.Delete(filePath);
+                    return;
+                }
+
+
                 var encData = Helper.DecryptData(dataEnc, fileInfo.password);
                 var playPath = Helper.ExtractFilePath(fileInfo.name);
 
@@ -265,6 +269,7 @@ namespace _808DesktopApp
             catch 
             {
                 MessageBox.Show("خطا در بازکردن فایل.", "پیام سیستم", MessageBoxButtons.OK);
+                System.IO.File.Delete(filePath);
             }
 
         }

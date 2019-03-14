@@ -35,14 +35,14 @@
             // 
             this.progressBar1.Location = new System.Drawing.Point(12, 12);
             this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(776, 23);
+            this.progressBar1.Size = new System.Drawing.Size(440, 23);
             this.progressBar1.TabIndex = 0;
             // 
             // frmFileDownloader
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(461, 48);
             this.Controls.Add(this.progressBar1);
             this.Name = "frmFileDownloader";
             this.Text = "frmFileDownloader";

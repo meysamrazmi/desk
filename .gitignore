@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/808DesktopApp/v15
+/808DesktopApp/bin/Debug/sourceFilePath
+/808DesktopApp/bin/Debug/DesktopDb.db

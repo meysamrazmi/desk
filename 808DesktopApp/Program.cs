@@ -24,6 +24,7 @@ namespace _808DesktopApp
             
             var tempFolder = System.IO.Path.GetTempPath() + "ExtractFilePath";
             Classes.Helper.extractFilePath = tempFolder;
+            loc:
             try
             {
                 Application.Run(new frmMain());
@@ -31,6 +32,7 @@ namespace _808DesktopApp
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
+                goto loc;
             }
 
         }
