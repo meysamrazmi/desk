@@ -40,6 +40,7 @@ namespace _808DesktopApp
             if (e.ProgressPercentage >= 100)
             {
                 Thread.Sleep(1000);
+                this.DialogResult = DialogResult.OK;
                 this.Close();
             }
         }

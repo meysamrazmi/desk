@@ -7,3 +7,12 @@ C:\Users\Amirhossein\source\repos\808DesktopApp\808Updater\obj\Debug\808Updater.
 C:\Users\Amirhossein\source\repos\808DesktopApp\808Updater\obj\Debug\808Updater.csproj.CoreCompileInputs.cache
 C:\Users\Amirhossein\source\repos\808DesktopApp\808Updater\obj\Debug\808Updater.exe
 C:\Users\Amirhossein\source\repos\808DesktopApp\808Updater\obj\Debug\808Updater.pdb
+E:\Amir\Project 808\desk\808Updater\bin\Debug\808Updater.exe
+E:\Amir\Project 808\desk\808Updater\bin\Debug\808Updater.pdb
+E:\Amir\Project 808\desk\808Updater\obj\Debug\808Updater.csprojResolveAssemblyReference.cache
+E:\Amir\Project 808\desk\808Updater\obj\Debug\_808Updater.Properties.Resources.resources
+E:\Amir\Project 808\desk\808Updater\obj\Debug\_808Updater.UpdatePreviewfrm.resources
+E:\Amir\Project 808\desk\808Updater\obj\Debug\808Updater.csproj.GenerateResource.cache
+E:\Amir\Project 808\desk\808Updater\obj\Debug\808Updater.csproj.CoreCompileInputs.cache
+E:\Amir\Project 808\desk\808Updater\obj\Debug\808Updater.exe
+E:\Amir\Project 808\desk\808Updater\obj\Debug\808Updater.pdb

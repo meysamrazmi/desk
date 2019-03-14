@@ -22,3 +22,28 @@ C:\Users\Amirhossein\source\repos\808DesktopApp\808DesktopApp\bin\Debug\Newtonso
 C:\Users\Amirhossein\source\repos\808DesktopApp\808DesktopApp\bin\Debug\Interop.AXVLC.dll
 C:\Users\Amirhossein\source\repos\808DesktopApp\808DesktopApp\bin\Debug\AxInterop.AXVLC.dll
 C:\Users\Amirhossein\source\repos\808DesktopApp\808DesktopApp\obj\Debug\808DesktopApp.csproj.CopyComplete
+C:\Users\Amirhossein\source\repos\808DesktopApp\808DesktopApp\obj\Debug\808DesktopApp.csprojResolveAssemblyReference.cache
+E:\Amir\Project 808\desk\808DesktopApp\bin\Debug\808DesktopApp.exe.config
+E:\Amir\Project 808\desk\808DesktopApp\bin\Debug\808DesktopApp.exe
+E:\Amir\Project 808\desk\808DesktopApp\bin\Debug\808DesktopApp.pdb
+E:\Amir\Project 808\desk\808DesktopApp\bin\Debug\Newtonsoft.Json.dll
+E:\Amir\Project 808\desk\808DesktopApp\bin\Debug\Newtonsoft.Json.pdb
+E:\Amir\Project 808\desk\808DesktopApp\bin\Debug\Newtonsoft.Json.xml
+E:\Amir\Project 808\desk\808DesktopApp\bin\Debug\Interop.AXVLC.dll
+E:\Amir\Project 808\desk\808DesktopApp\bin\Debug\AxInterop.AXVLC.dll
+E:\Amir\Project 808\desk\808DesktopApp\obj\Debug\Interop.AXVLC.dll
+E:\Amir\Project 808\desk\808DesktopApp\obj\Debug\AxInterop.AXVLC.dll
+E:\Amir\Project 808\desk\808DesktopApp\obj\Debug\808DesktopApp.csproj.ResolveComReference.cache
+E:\Amir\Project 808\desk\808DesktopApp\obj\Debug\_808DesktopApp.frmFileDownloader.resources
+E:\Amir\Project 808\desk\808DesktopApp\obj\Debug\_808DesktopApp.frmLogin.resources
+E:\Amir\Project 808\desk\808DesktopApp\obj\Debug\_808DesktopApp.frmMain.resources
+E:\Amir\Project 808\desk\808DesktopApp\obj\Debug\_808DesktopApp.frmPdfDisplayer.resources
+E:\Amir\Project 808\desk\808DesktopApp\obj\Debug\_808DesktopApp.frmShowPedia.resources
+E:\Amir\Project 808\desk\808DesktopApp\obj\Debug\_808DesktopApp.frmVideoPlayer.resources
+E:\Amir\Project 808\desk\808DesktopApp\obj\Debug\_808DesktopApp.Properties.Resources.resources
+E:\Amir\Project 808\desk\808DesktopApp\obj\Debug\808DesktopApp.csproj.GenerateResource.cache
+E:\Amir\Project 808\desk\808DesktopApp\obj\Debug\808DesktopApp.csproj.CoreCompileInputs.cache
+E:\Amir\Project 808\desk\808DesktopApp\obj\Debug\808DesktopApp.csproj.CopyComplete
+E:\Amir\Project 808\desk\808DesktopApp\obj\Debug\808DesktopApp.exe
+E:\Amir\Project 808\desk\808DesktopApp\obj\Debug\808DesktopApp.pdb
+E:\Amir\Project 808\desk\808DesktopApp\obj\Debug\808DesktopApp.csprojResolveAssemblyReference.cache

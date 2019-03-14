@@ -222,7 +222,9 @@ namespace _808DesktopApp
                     if (message == DialogResult.Yes)
                     {
                         var frmDownload = new frmFileDownloader(filePath, fileInfo.url);
-                        frmDownload.ShowDialog();
+                        var result = frmDownload.ShowDialog();
+                        if (result != DialogResult.OK)
+                            MessageBox.Show("خطا در دانلود فایل", "پیام سیستم", MessageBoxButtons.OK);
                     }
                 }
             }
@@ -235,26 +237,36 @@ namespace _808DesktopApp
 
 
             var dataEnc = System.IO.File.ReadAllBytes(filePath);
-            var encData = Helper.DecryptData(dataEnc, fileInfo.password);
-            var playPath = Helper.ExtractFilePath(fileInfo.name);
-
-            System.IO.File.WriteAllBytes(playPath, encData);
-
-            switch (fileType)
+            if (dataEnc.Length == 0)
+                return;
+            try
             {
-                case Helper.FileType.Video:
-                    var videoPlayer = new frmVideoPlayer(playPath);
-                    videoPlayer.ShowDialog();
-                    videoPlayer.Close();
-                    break;
-                case Helper.FileType.PDF:
-                    var pdfPlayer = new frmPdfDisplayer(playPath);
-                    pdfPlayer.ShowDialog();
-                    pdfPlayer.Close();
-                    break;
+                var encData = Helper.DecryptData(dataEnc, fileInfo.password);
+                var playPath = Helper.ExtractFilePath(fileInfo.name);
+
+                System.IO.File.WriteAllBytes(playPath, encData);
+
+                switch (fileType)
+                {
+                    case Helper.FileType.Video:
+                        var videoPlayer = new frmVideoPlayer(playPath);
+                        videoPlayer.ShowDialog();
+                        videoPlayer.Close();
+                        break;
+                    case Helper.FileType.PDF:
+                        var pdfPlayer = new frmPdfDisplayer(playPath);
+                        pdfPlayer.ShowDialog();
+                        pdfPlayer.Close();
+                        break;
+                }
+
+                System.IO.File.Delete(playPath);
+            }
+            catch 
+            {
+                MessageBox.Show("خطا در بازکردن فایل.", "پیام سیستم", MessageBoxButtons.OK);
             }
 
-            System.IO.File.Delete(playPath);
         }
 
         void SelectPage_Click(object sender, EventArgs e)
