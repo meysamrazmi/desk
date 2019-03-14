@@ -23,7 +23,6 @@ C:\Users\Amirhossein\source\repos\808DesktopApp\808DesktopApp\bin\Debug\Interop.
 C:\Users\Amirhossein\source\repos\808DesktopApp\808DesktopApp\bin\Debug\AxInterop.AXVLC.dll
 C:\Users\Amirhossein\source\repos\808DesktopApp\808DesktopApp\obj\Debug\808DesktopApp.csproj.CopyComplete
 C:\Users\Amirhossein\source\repos\808DesktopApp\808DesktopApp\obj\Debug\808DesktopApp.csprojResolveAssemblyReference.cache
-E:\Amir\Project 808\desk\808DesktopApp\bin\Debug\808DesktopApp.exe.config
 E:\Amir\Project 808\desk\808DesktopApp\bin\Debug\808DesktopApp.exe
 E:\Amir\Project 808\desk\808DesktopApp\bin\Debug\808DesktopApp.pdb
 E:\Amir\Project 808\desk\808DesktopApp\bin\Debug\Newtonsoft.Json.dll
